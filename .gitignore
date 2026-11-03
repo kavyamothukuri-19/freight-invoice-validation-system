@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+output/*.db
+output/*.csv
+output/*.json
+output/*.html
+*.sqlite3
+freight_invoice_project/output/
